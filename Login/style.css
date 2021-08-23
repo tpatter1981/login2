@@ -1,0 +1,12 @@
+.container {
+    position: relative;
+    border-radius: 5px;
+    background-color: rgb(149, 184, 201);
+    padding: 20px 030px 0;
+}
+
+input,
+.btn {
+    width: 100%;
+    padding: 12px
+}
